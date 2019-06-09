@@ -1,2 +1,4 @@
 console.log('hello')
-function fn() {}
+function fn() {
+  console.log('你好啊')
+}
